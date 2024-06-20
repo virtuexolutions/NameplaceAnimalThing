@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93962409349",
+    "project_id": "nameplaceanimalthing-b749b",
+    "storage_bucket": "nameplaceanimalthing-b749b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93962409349:android:e0074f0a1c5b5cd590e0ec",
+        "android_client_info": {
+          "package_name": "com.nameplaceanimalthing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ4Cq78DCZz2Az7k3RVWiQvVtBDu18l8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
